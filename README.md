@@ -7,8 +7,12 @@ The purpose of this project was to recreate this analysis based on suspicion of 
 
 ## Results
 
+Lets first consider the District Summary. Below is the Data Frame created for the initial analysis, including the 9th grade scores from Thomas High School. 
+![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/new_district_analysis.png)
+
+Here is the new Data Frame that reflects the adjusted scores. 
+![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/new_district_analysis.png)
 ## Summary 
 
 
 
-![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/new_district_analysis.png)
