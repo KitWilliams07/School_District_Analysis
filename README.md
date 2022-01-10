@@ -36,6 +36,14 @@ Below is a Data Frame showing the Top 5 performing schools AFTER igrnoing the se
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/new_thomas_performance.png)
 
+From these 2 Data Frames you can see that Thomas High School remains in the 2nd spot in terms of school performance. The Data Frame coming from removing the 9th grader's scores shows that the the % passing for math, reading, and overall all dropped slightly compared to the first Data Frame. However, it was not enough to change them out of the 2nd spot. 
+
+### Math and Reading Score by Grade
+
+Below is the Data Frame for the math scores by grade after adjusting the 9th grade scores for Thomas High School. 
+
+
+Below is the Data Frame for the reading scores by grade after adjusting the 9th grade scores for Thomas High School. 
 
 
 ## Summary 
