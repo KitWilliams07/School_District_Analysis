@@ -29,6 +29,12 @@ You can find the information on Thomas High School in the 13th row. Within this 
 Below is a Data Frame showing the Top 5 performing schools based on Overall Passing %, prior to ignoring the select students' scores. 
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/old_thomas_performance.png)
+
+Based on this you can see that Thomas High School ranked 2nd in Overall Passing %. 
+
+Below is a Data Frame showing the Top 5 performing schools AFTER igrnoing the select students' scores. 
+
+
 ## Summary 
 
 
