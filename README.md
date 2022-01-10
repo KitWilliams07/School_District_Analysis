@@ -47,6 +47,12 @@ Below is the Data Frame for the reading scores by grade after adjusting the 9th 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/read_score_by_grade.png)
 
 
+From these Data Frames, it is clear that setting the 9th graders at Thomas High School scores to NaN should have no effect on the scores of other grades at other schools. These 2 Data Frames show that the math and reading scores for the 9th grade at Thomas High School are set to NaN. 
+
+### Scores by School Spending, Size and Type
+
+
+
 
 ## Summary 
 
