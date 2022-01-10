@@ -62,6 +62,13 @@ These Data Frames are exactly the same for both analysis, including and excludin
 
 ## Summary 
 
+After removing the math and reading scores of 9th graders at Thomas High School, the overall performance metrics for the District Summary dropped. This provides evidence that these students could have been cheating, however based on the data it is impossible to say for ceratin. 
+
+So the changes that occured when setting the 9th grade scores to NaN resulted in a decrease in the following District Metrics...
+- Average Math Score
+- Average Reading Score
+- % Passing Math 
+- % Passing Reading
+- $ Overall Passing
 
 
-After removing the math and reading scores of 9th graders at Thomas High School, the overall performance metrics for the District Summary dropped. This suggests that these students could have been cheating, or they are very smart because they brought up the scores for both subjects. 
