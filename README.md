@@ -51,7 +51,10 @@ From these Data Frames, it is clear that setting the 9th graders at Thomas High 
 
 ### Scores by School Spending, Size and Type
 
-
+Below are the Data Frames that reflect the average scores based on School Spending, School Size, and School Type 
+![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/school_spending.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/school_size.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/school_type.png)
 
 
 ## Summary 
