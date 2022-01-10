@@ -20,7 +20,7 @@ Looking next at the School Summary metrics, since these metrics are calculated f
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/school_summary.png)
 
-You can find the information on Thomas High School in the 13th row. Within this row, some of the columns involving student budget and student total does not change. 
+You can find the information on Thomas High School in the 13th row. Within this row, some of the columns involving student budget and student total does not change. However for the reading and math scores, as well the respective % passing scores, this Data Frame shows lower values than the older analysis. This is again because the 9th grade scores were higher, so when they are ignored, the resulting scores will drop. 
 
 ## Summary 
 
