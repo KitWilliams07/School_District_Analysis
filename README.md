@@ -41,10 +41,10 @@ From these 2 Data Frames you can see that Thomas High School remains in the 2nd 
 ### Math and Reading Score by Grade
 
 Below is the Data Frame for the math scores by grade after adjusting the 9th grade scores for Thomas High School. 
-
+![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/math_score_by_grade.png)
 
 Below is the Data Frame for the reading scores by grade after adjusting the 9th grade scores for Thomas High School. 
-
+![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/read_score_by_grade.png)
 
 ## Summary 
 
