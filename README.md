@@ -34,6 +34,9 @@ Based on this you can see that Thomas High School ranked 2nd in Overall Passing 
 
 Below is a Data Frame showing the Top 5 performing schools AFTER igrnoing the select students' scores. 
 
+![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/new_thomas_performance.png)
+
+
 
 ## Summary 
 
