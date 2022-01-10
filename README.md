@@ -52,10 +52,13 @@ From these Data Frames, it is clear that setting the 9th graders at Thomas High 
 ### Scores by School Spending, Size and Type
 
 Below are the Data Frames that reflect the average scores based on School Spending, School Size, and School Type 
+
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/school_spending.png)
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/school_size.png)
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/school_type.png)
 
+
+These Data Frames are exactly the same for both analysis, including and excluding the 9th graders' scores. This is due to the shear number of students in the district. These final statisitcs consider entire schools of students rather than grades. As a result, if you exclude a small subset of scores,the overall scores for the whole district will remain virtually unchanged. If the Data Frame displayed the values to more decimal places, it would be easier to see a difference. However rounding to 1 decimal place makes it impossible to see a difference. 
 
 ## Summary 
 
