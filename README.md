@@ -18,6 +18,9 @@ The total schools, students, and budget did not change since we only adjusted ma
 
 Looking next at the School Summary metrics, since these metrics are calculated for each school there is going to be no impact on the scores for the other schools. Below is the Data Frame created for this new analysis. 
 
+![alt text](https://raw.githubusercontent.com/KitWilliams07/School_District_Analysis/main/Resources/school_summary.png)
+
+You can find the information on Thomas High School in the 13th row. Within this row, some of the columns involving student budget and student total does not change. 
 
 ## Summary 
 
